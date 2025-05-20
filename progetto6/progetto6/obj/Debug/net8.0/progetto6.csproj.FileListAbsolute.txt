@@ -1,0 +1,4 @@
+C:\Users\Gianluca\Desktop\verison control c#\progetto6\progetto6\obj\Debug\net8.0\progetto6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\verison control c#\progetto6\progetto6\obj\Debug\net8.0\progetto6.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\verison control c#\progetto6\progetto6\obj\Debug\net8.0\progetto6.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\verison control c#\progetto6\progetto6\obj\Debug\net8.0\progetto6.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\verison control c#\progetto5\progetto5\obj\Debug\net8.0\progetto5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\verison control c#\progetto5\progetto5\obj\Debug\net8.0\progetto5.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\verison control c#\progetto5\progetto5\obj\Debug\net8.0\progetto5.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\verison control c#\progetto5\progetto5\obj\Debug\net8.0\progetto5.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\verison control c#\progetto5\progetto5\bin\Debug\net8.0\progetto5.exe
+C:\Users\Gianluca\Desktop\verison control c#\progetto5\progetto5\bin\Debug\net8.0\progetto5.deps.json
+C:\Users\Gianluca\Desktop\verison control c#\progetto5\progetto5\bin\Debug\net8.0\progetto5.runtimeconfig.json
+C:\Users\Gianluca\Desktop\verison control c#\progetto5\progetto5\bin\Debug\net8.0\progetto5.dll
+C:\Users\Gianluca\Desktop\verison control c#\progetto5\progetto5\bin\Debug\net8.0\progetto5.pdb
+C:\Users\Gianluca\Desktop\verison control c#\progetto5\progetto5\obj\Debug\net8.0\progetto5.dll
+C:\Users\Gianluca\Desktop\verison control c#\progetto5\progetto5\obj\Debug\net8.0\refint\progetto5.dll
+C:\Users\Gianluca\Desktop\verison control c#\progetto5\progetto5\obj\Debug\net8.0\progetto5.pdb
+C:\Users\Gianluca\Desktop\verison control c#\progetto5\progetto5\obj\Debug\net8.0\progetto5.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\verison control c#\progetto5\progetto5\obj\Debug\net8.0\ref\progetto5.dll

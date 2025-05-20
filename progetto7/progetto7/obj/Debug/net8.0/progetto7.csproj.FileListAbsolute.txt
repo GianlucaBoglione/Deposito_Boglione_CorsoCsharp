@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\verison control c#\progetto7\progetto7\bin\Debug\net8.0\progetto7.exe
+C:\Users\Gianluca\Desktop\verison control c#\progetto7\progetto7\bin\Debug\net8.0\progetto7.deps.json
+C:\Users\Gianluca\Desktop\verison control c#\progetto7\progetto7\bin\Debug\net8.0\progetto7.runtimeconfig.json
+C:\Users\Gianluca\Desktop\verison control c#\progetto7\progetto7\bin\Debug\net8.0\progetto7.dll
+C:\Users\Gianluca\Desktop\verison control c#\progetto7\progetto7\bin\Debug\net8.0\progetto7.pdb
+C:\Users\Gianluca\Desktop\verison control c#\progetto7\progetto7\obj\Debug\net8.0\progetto7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\verison control c#\progetto7\progetto7\obj\Debug\net8.0\progetto7.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\verison control c#\progetto7\progetto7\obj\Debug\net8.0\progetto7.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\verison control c#\progetto7\progetto7\obj\Debug\net8.0\progetto7.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\verison control c#\progetto7\progetto7\obj\Debug\net8.0\progetto7.dll
+C:\Users\Gianluca\Desktop\verison control c#\progetto7\progetto7\obj\Debug\net8.0\refint\progetto7.dll
+C:\Users\Gianluca\Desktop\verison control c#\progetto7\progetto7\obj\Debug\net8.0\progetto7.pdb
+C:\Users\Gianluca\Desktop\verison control c#\progetto7\progetto7\obj\Debug\net8.0\progetto7.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\verison control c#\progetto7\progetto7\obj\Debug\net8.0\ref\progetto7.dll
