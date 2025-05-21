@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\CSharp\ereditarieta\bin\Debug\net8.0\ereditarieta.exe
+C:\Users\Gianluca\Desktop\CSharp\ereditarieta\bin\Debug\net8.0\ereditarieta.deps.json
+C:\Users\Gianluca\Desktop\CSharp\ereditarieta\bin\Debug\net8.0\ereditarieta.runtimeconfig.json
+C:\Users\Gianluca\Desktop\CSharp\ereditarieta\bin\Debug\net8.0\ereditarieta.dll
+C:\Users\Gianluca\Desktop\CSharp\ereditarieta\bin\Debug\net8.0\ereditarieta.pdb
+C:\Users\Gianluca\Desktop\CSharp\ereditarieta\obj\Debug\net8.0\ereditarieta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\CSharp\ereditarieta\obj\Debug\net8.0\ereditarieta.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\ereditarieta\obj\Debug\net8.0\ereditarieta.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\CSharp\ereditarieta\obj\Debug\net8.0\ereditarieta.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\ereditarieta\obj\Debug\net8.0\ereditarieta.dll
+C:\Users\Gianluca\Desktop\CSharp\ereditarieta\obj\Debug\net8.0\refint\ereditarieta.dll
+C:\Users\Gianluca\Desktop\CSharp\ereditarieta\obj\Debug\net8.0\ereditarieta.pdb
+C:\Users\Gianluca\Desktop\CSharp\ereditarieta\obj\Debug\net8.0\ereditarieta.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\CSharp\ereditarieta\obj\Debug\net8.0\ref\ereditarieta.dll
