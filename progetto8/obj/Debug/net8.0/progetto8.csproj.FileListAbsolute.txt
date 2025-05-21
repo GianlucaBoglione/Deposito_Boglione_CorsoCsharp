@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\CSharp\progetto8\obj\Debug\net8.0\progetto8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\CSharp\progetto8\obj\Debug\net8.0\progetto8.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\progetto8\obj\Debug\net8.0\progetto8.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\CSharp\progetto8\obj\Debug\net8.0\progetto8.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\progetto8\bin\Debug\net8.0\progetto8.exe
+C:\Users\Gianluca\Desktop\CSharp\progetto8\bin\Debug\net8.0\progetto8.deps.json
+C:\Users\Gianluca\Desktop\CSharp\progetto8\bin\Debug\net8.0\progetto8.runtimeconfig.json
+C:\Users\Gianluca\Desktop\CSharp\progetto8\bin\Debug\net8.0\progetto8.dll
+C:\Users\Gianluca\Desktop\CSharp\progetto8\bin\Debug\net8.0\progetto8.pdb
+C:\Users\Gianluca\Desktop\CSharp\progetto8\obj\Debug\net8.0\progetto8.dll
+C:\Users\Gianluca\Desktop\CSharp\progetto8\obj\Debug\net8.0\refint\progetto8.dll
+C:\Users\Gianluca\Desktop\CSharp\progetto8\obj\Debug\net8.0\progetto8.pdb
+C:\Users\Gianluca\Desktop\CSharp\progetto8\obj\Debug\net8.0\progetto8.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\CSharp\progetto8\obj\Debug\net8.0\ref\progetto8.dll
