@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento02\obj\Debug\net8.0\incapsulamento02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento02\obj\Debug\net8.0\incapsulamento02.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento02\obj\Debug\net8.0\incapsulamento02.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento02\obj\Debug\net8.0\incapsulamento02.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento02\bin\Debug\net8.0\incapsulamento02.exe
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento02\bin\Debug\net8.0\incapsulamento02.deps.json
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento02\bin\Debug\net8.0\incapsulamento02.runtimeconfig.json
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento02\bin\Debug\net8.0\incapsulamento02.dll
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento02\bin\Debug\net8.0\incapsulamento02.pdb
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento02\obj\Debug\net8.0\incapsulamento02.dll
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento02\obj\Debug\net8.0\refint\incapsulamento02.dll
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento02\obj\Debug\net8.0\incapsulamento02.pdb
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento02\obj\Debug\net8.0\incapsulamento02.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento02\obj\Debug\net8.0\ref\incapsulamento02.dll
