@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento04\bin\Debug\net8.0\incapsulamento4.exe
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento04\bin\Debug\net8.0\incapsulamento4.deps.json
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento04\bin\Debug\net8.0\incapsulamento4.runtimeconfig.json
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento04\bin\Debug\net8.0\incapsulamento4.dll
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento04\bin\Debug\net8.0\incapsulamento4.pdb
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento04\obj\Debug\net8.0\incapsulamento4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento04\obj\Debug\net8.0\incapsulamento4.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento04\obj\Debug\net8.0\incapsulamento4.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento04\obj\Debug\net8.0\incapsulamento4.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento04\obj\Debug\net8.0\incapsulamento4.dll
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento04\obj\Debug\net8.0\refint\incapsulamento4.dll
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento04\obj\Debug\net8.0\incapsulamento4.pdb
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento04\obj\Debug\net8.0\incapsulamento4.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\CSharp\incapsulamento04\obj\Debug\net8.0\ref\incapsulamento4.dll
