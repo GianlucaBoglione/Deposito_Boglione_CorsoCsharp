@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\CSharp\interfaccia\bin\Debug\net8.0\interfaccia.exe
+C:\Users\Gianluca\Desktop\CSharp\interfaccia\bin\Debug\net8.0\interfaccia.deps.json
+C:\Users\Gianluca\Desktop\CSharp\interfaccia\bin\Debug\net8.0\interfaccia.runtimeconfig.json
+C:\Users\Gianluca\Desktop\CSharp\interfaccia\bin\Debug\net8.0\interfaccia.dll
+C:\Users\Gianluca\Desktop\CSharp\interfaccia\bin\Debug\net8.0\interfaccia.pdb
+C:\Users\Gianluca\Desktop\CSharp\interfaccia\obj\Debug\net8.0\interfaccia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\CSharp\interfaccia\obj\Debug\net8.0\interfaccia.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\interfaccia\obj\Debug\net8.0\interfaccia.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\CSharp\interfaccia\obj\Debug\net8.0\interfaccia.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\interfaccia\obj\Debug\net8.0\interfaccia.dll
+C:\Users\Gianluca\Desktop\CSharp\interfaccia\obj\Debug\net8.0\refint\interfaccia.dll
+C:\Users\Gianluca\Desktop\CSharp\interfaccia\obj\Debug\net8.0\interfaccia.pdb
+C:\Users\Gianluca\Desktop\CSharp\interfaccia\obj\Debug\net8.0\interfaccia.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\CSharp\interfaccia\obj\Debug\net8.0\ref\interfaccia.dll

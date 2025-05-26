@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\CSharp\laboratorioTecnico\bin\Debug\net8.0\laboratorioTecnico.exe
+C:\Users\Gianluca\Desktop\CSharp\laboratorioTecnico\bin\Debug\net8.0\laboratorioTecnico.deps.json
+C:\Users\Gianluca\Desktop\CSharp\laboratorioTecnico\bin\Debug\net8.0\laboratorioTecnico.runtimeconfig.json
+C:\Users\Gianluca\Desktop\CSharp\laboratorioTecnico\bin\Debug\net8.0\laboratorioTecnico.dll
+C:\Users\Gianluca\Desktop\CSharp\laboratorioTecnico\bin\Debug\net8.0\laboratorioTecnico.pdb
+C:\Users\Gianluca\Desktop\CSharp\laboratorioTecnico\obj\Debug\net8.0\laboratorioTecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\CSharp\laboratorioTecnico\obj\Debug\net8.0\laboratorioTecnico.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\laboratorioTecnico\obj\Debug\net8.0\laboratorioTecnico.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\CSharp\laboratorioTecnico\obj\Debug\net8.0\laboratorioTecnico.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\laboratorioTecnico\obj\Debug\net8.0\laboratorioTecnico.dll
+C:\Users\Gianluca\Desktop\CSharp\laboratorioTecnico\obj\Debug\net8.0\refint\laboratorioTecnico.dll
+C:\Users\Gianluca\Desktop\CSharp\laboratorioTecnico\obj\Debug\net8.0\laboratorioTecnico.pdb
+C:\Users\Gianluca\Desktop\CSharp\laboratorioTecnico\obj\Debug\net8.0\laboratorioTecnico.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\CSharp\laboratorioTecnico\obj\Debug\net8.0\ref\laboratorioTecnico.dll
