@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\CSharp\logger02\bin\Debug\net8.0\logger02.exe
+C:\Users\Gianluca\Desktop\CSharp\logger02\bin\Debug\net8.0\logger02.deps.json
+C:\Users\Gianluca\Desktop\CSharp\logger02\bin\Debug\net8.0\logger02.runtimeconfig.json
+C:\Users\Gianluca\Desktop\CSharp\logger02\bin\Debug\net8.0\logger02.dll
+C:\Users\Gianluca\Desktop\CSharp\logger02\bin\Debug\net8.0\logger02.pdb
+C:\Users\Gianluca\Desktop\CSharp\logger02\obj\Debug\net8.0\logger02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\CSharp\logger02\obj\Debug\net8.0\logger02.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\logger02\obj\Debug\net8.0\logger02.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\CSharp\logger02\obj\Debug\net8.0\logger02.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\logger02\obj\Debug\net8.0\logger02.dll
+C:\Users\Gianluca\Desktop\CSharp\logger02\obj\Debug\net8.0\refint\logger02.dll
+C:\Users\Gianluca\Desktop\CSharp\logger02\obj\Debug\net8.0\logger02.pdb
+C:\Users\Gianluca\Desktop\CSharp\logger02\obj\Debug\net8.0\logger02.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\CSharp\logger02\obj\Debug\net8.0\ref\logger02.dll

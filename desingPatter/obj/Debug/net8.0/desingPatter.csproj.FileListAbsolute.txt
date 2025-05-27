@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\CSharp\desingPatter\obj\Debug\net8.0\desingPatter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\CSharp\desingPatter\obj\Debug\net8.0\desingPatter.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\desingPatter\obj\Debug\net8.0\desingPatter.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\CSharp\desingPatter\obj\Debug\net8.0\desingPatter.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\desingPatter\bin\Debug\net8.0\desingPatter.exe
+C:\Users\Gianluca\Desktop\CSharp\desingPatter\bin\Debug\net8.0\desingPatter.deps.json
+C:\Users\Gianluca\Desktop\CSharp\desingPatter\bin\Debug\net8.0\desingPatter.runtimeconfig.json
+C:\Users\Gianluca\Desktop\CSharp\desingPatter\bin\Debug\net8.0\desingPatter.dll
+C:\Users\Gianluca\Desktop\CSharp\desingPatter\bin\Debug\net8.0\desingPatter.pdb
+C:\Users\Gianluca\Desktop\CSharp\desingPatter\obj\Debug\net8.0\desingPatter.dll
+C:\Users\Gianluca\Desktop\CSharp\desingPatter\obj\Debug\net8.0\refint\desingPatter.dll
+C:\Users\Gianluca\Desktop\CSharp\desingPatter\obj\Debug\net8.0\desingPatter.pdb
+C:\Users\Gianluca\Desktop\CSharp\desingPatter\obj\Debug\net8.0\desingPatter.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\CSharp\desingPatter\obj\Debug\net8.0\ref\desingPatter.dll
