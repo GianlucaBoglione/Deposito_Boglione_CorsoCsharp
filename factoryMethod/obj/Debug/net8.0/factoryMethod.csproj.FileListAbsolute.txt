@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\CSharp\factoryMethod\bin\Debug\net8.0\factoryMethod.exe
+C:\Users\Gianluca\Desktop\CSharp\factoryMethod\bin\Debug\net8.0\factoryMethod.deps.json
+C:\Users\Gianluca\Desktop\CSharp\factoryMethod\bin\Debug\net8.0\factoryMethod.runtimeconfig.json
+C:\Users\Gianluca\Desktop\CSharp\factoryMethod\bin\Debug\net8.0\factoryMethod.dll
+C:\Users\Gianluca\Desktop\CSharp\factoryMethod\bin\Debug\net8.0\factoryMethod.pdb
+C:\Users\Gianluca\Desktop\CSharp\factoryMethod\obj\Debug\net8.0\factoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\CSharp\factoryMethod\obj\Debug\net8.0\factoryMethod.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\factoryMethod\obj\Debug\net8.0\factoryMethod.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\CSharp\factoryMethod\obj\Debug\net8.0\factoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\factoryMethod\obj\Debug\net8.0\factoryMethod.dll
+C:\Users\Gianluca\Desktop\CSharp\factoryMethod\obj\Debug\net8.0\refint\factoryMethod.dll
+C:\Users\Gianluca\Desktop\CSharp\factoryMethod\obj\Debug\net8.0\factoryMethod.pdb
+C:\Users\Gianluca\Desktop\CSharp\factoryMethod\obj\Debug\net8.0\factoryMethod.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\CSharp\factoryMethod\obj\Debug\net8.0\ref\factoryMethod.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "veicoloFactory/1.0.0": {
+        "runtime": {
+          "veicoloFactory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "veicoloFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

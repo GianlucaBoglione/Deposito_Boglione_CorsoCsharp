@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\CSharp\veicoloFactory\bin\Debug\net8.0\veicoloFactory.exe
+C:\Users\Gianluca\Desktop\CSharp\veicoloFactory\bin\Debug\net8.0\veicoloFactory.deps.json
+C:\Users\Gianluca\Desktop\CSharp\veicoloFactory\bin\Debug\net8.0\veicoloFactory.runtimeconfig.json
+C:\Users\Gianluca\Desktop\CSharp\veicoloFactory\bin\Debug\net8.0\veicoloFactory.dll
+C:\Users\Gianluca\Desktop\CSharp\veicoloFactory\bin\Debug\net8.0\veicoloFactory.pdb
+C:\Users\Gianluca\Desktop\CSharp\veicoloFactory\obj\Debug\net8.0\veicoloFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\CSharp\veicoloFactory\obj\Debug\net8.0\veicoloFactory.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\veicoloFactory\obj\Debug\net8.0\veicoloFactory.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\CSharp\veicoloFactory\obj\Debug\net8.0\veicoloFactory.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\veicoloFactory\obj\Debug\net8.0\veicoloFactory.dll
+C:\Users\Gianluca\Desktop\CSharp\veicoloFactory\obj\Debug\net8.0\refint\veicoloFactory.dll
+C:\Users\Gianluca\Desktop\CSharp\veicoloFactory\obj\Debug\net8.0\veicoloFactory.pdb
+C:\Users\Gianluca\Desktop\CSharp\veicoloFactory\obj\Debug\net8.0\veicoloFactory.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\CSharp\veicoloFactory\obj\Debug\net8.0\ref\veicoloFactory.dll
