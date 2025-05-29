@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\CSharp\decoratorBar\bin\Debug\net8.0\decoratorBar.exe
+C:\Users\Gianluca\Desktop\CSharp\decoratorBar\bin\Debug\net8.0\decoratorBar.deps.json
+C:\Users\Gianluca\Desktop\CSharp\decoratorBar\bin\Debug\net8.0\decoratorBar.runtimeconfig.json
+C:\Users\Gianluca\Desktop\CSharp\decoratorBar\bin\Debug\net8.0\decoratorBar.dll
+C:\Users\Gianluca\Desktop\CSharp\decoratorBar\bin\Debug\net8.0\decoratorBar.pdb
+C:\Users\Gianluca\Desktop\CSharp\decoratorBar\obj\Debug\net8.0\decoratorBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\CSharp\decoratorBar\obj\Debug\net8.0\decoratorBar.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\decoratorBar\obj\Debug\net8.0\decoratorBar.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\CSharp\decoratorBar\obj\Debug\net8.0\decoratorBar.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\decoratorBar\obj\Debug\net8.0\decoratorBar.dll
+C:\Users\Gianluca\Desktop\CSharp\decoratorBar\obj\Debug\net8.0\refint\decoratorBar.dll
+C:\Users\Gianluca\Desktop\CSharp\decoratorBar\obj\Debug\net8.0\decoratorBar.pdb
+C:\Users\Gianluca\Desktop\CSharp\decoratorBar\obj\Debug\net8.0\decoratorBar.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\CSharp\decoratorBar\obj\Debug\net8.0\ref\decoratorBar.dll
