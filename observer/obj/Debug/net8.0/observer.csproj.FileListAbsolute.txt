@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\CSharp\observer\bin\Debug\net8.0\observer.exe
+C:\Users\Gianluca\Desktop\CSharp\observer\bin\Debug\net8.0\observer.deps.json
+C:\Users\Gianluca\Desktop\CSharp\observer\bin\Debug\net8.0\observer.runtimeconfig.json
+C:\Users\Gianluca\Desktop\CSharp\observer\bin\Debug\net8.0\observer.dll
+C:\Users\Gianluca\Desktop\CSharp\observer\bin\Debug\net8.0\observer.pdb
+C:\Users\Gianluca\Desktop\CSharp\observer\obj\Debug\net8.0\observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\CSharp\observer\obj\Debug\net8.0\observer.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\observer\obj\Debug\net8.0\observer.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\CSharp\observer\obj\Debug\net8.0\observer.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\observer\obj\Debug\net8.0\observer.dll
+C:\Users\Gianluca\Desktop\CSharp\observer\obj\Debug\net8.0\refint\observer.dll
+C:\Users\Gianluca\Desktop\CSharp\observer\obj\Debug\net8.0\observer.pdb
+C:\Users\Gianluca\Desktop\CSharp\observer\obj\Debug\net8.0\observer.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\CSharp\observer\obj\Debug\net8.0\ref\observer.dll

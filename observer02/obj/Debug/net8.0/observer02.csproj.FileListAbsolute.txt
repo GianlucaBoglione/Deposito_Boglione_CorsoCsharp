@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\CSharp\observer02\bin\Debug\net8.0\observer02.exe
+C:\Users\Gianluca\Desktop\CSharp\observer02\bin\Debug\net8.0\observer02.deps.json
+C:\Users\Gianluca\Desktop\CSharp\observer02\bin\Debug\net8.0\observer02.runtimeconfig.json
+C:\Users\Gianluca\Desktop\CSharp\observer02\bin\Debug\net8.0\observer02.dll
+C:\Users\Gianluca\Desktop\CSharp\observer02\bin\Debug\net8.0\observer02.pdb
+C:\Users\Gianluca\Desktop\CSharp\observer02\obj\Debug\net8.0\observer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\CSharp\observer02\obj\Debug\net8.0\observer02.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\observer02\obj\Debug\net8.0\observer02.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\CSharp\observer02\obj\Debug\net8.0\observer02.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\observer02\obj\Debug\net8.0\observer02.dll
+C:\Users\Gianluca\Desktop\CSharp\observer02\obj\Debug\net8.0\refint\observer02.dll
+C:\Users\Gianluca\Desktop\CSharp\observer02\obj\Debug\net8.0\observer02.pdb
+C:\Users\Gianluca\Desktop\CSharp\observer02\obj\Debug\net8.0\observer02.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\CSharp\observer02\obj\Debug\net8.0\ref\observer02.dll

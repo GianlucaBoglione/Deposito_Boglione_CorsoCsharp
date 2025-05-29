@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\CSharp\decorator\bin\Debug\net8.0\decorator.exe
+C:\Users\Gianluca\Desktop\CSharp\decorator\bin\Debug\net8.0\decorator.deps.json
+C:\Users\Gianluca\Desktop\CSharp\decorator\bin\Debug\net8.0\decorator.runtimeconfig.json
+C:\Users\Gianluca\Desktop\CSharp\decorator\bin\Debug\net8.0\decorator.dll
+C:\Users\Gianluca\Desktop\CSharp\decorator\bin\Debug\net8.0\decorator.pdb
+C:\Users\Gianluca\Desktop\CSharp\decorator\obj\Debug\net8.0\decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\CSharp\decorator\obj\Debug\net8.0\decorator.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\decorator\obj\Debug\net8.0\decorator.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\CSharp\decorator\obj\Debug\net8.0\decorator.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\decorator\obj\Debug\net8.0\decorator.dll
+C:\Users\Gianluca\Desktop\CSharp\decorator\obj\Debug\net8.0\refint\decorator.dll
+C:\Users\Gianluca\Desktop\CSharp\decorator\obj\Debug\net8.0\decorator.pdb
+C:\Users\Gianluca\Desktop\CSharp\decorator\obj\Debug\net8.0\decorator.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\CSharp\decorator\obj\Debug\net8.0\ref\decorator.dll

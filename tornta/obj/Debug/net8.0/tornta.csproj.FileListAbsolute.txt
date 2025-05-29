@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\CSharp\tornta\bin\Debug\net8.0\tornta.exe
+C:\Users\Gianluca\Desktop\CSharp\tornta\bin\Debug\net8.0\tornta.deps.json
+C:\Users\Gianluca\Desktop\CSharp\tornta\bin\Debug\net8.0\tornta.runtimeconfig.json
+C:\Users\Gianluca\Desktop\CSharp\tornta\bin\Debug\net8.0\tornta.dll
+C:\Users\Gianluca\Desktop\CSharp\tornta\bin\Debug\net8.0\tornta.pdb
+C:\Users\Gianluca\Desktop\CSharp\tornta\obj\Debug\net8.0\tornta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\CSharp\tornta\obj\Debug\net8.0\tornta.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\tornta\obj\Debug\net8.0\tornta.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\CSharp\tornta\obj\Debug\net8.0\tornta.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\tornta\obj\Debug\net8.0\tornta.dll
+C:\Users\Gianluca\Desktop\CSharp\tornta\obj\Debug\net8.0\refint\tornta.dll
+C:\Users\Gianluca\Desktop\CSharp\tornta\obj\Debug\net8.0\tornta.pdb
+C:\Users\Gianluca\Desktop\CSharp\tornta\obj\Debug\net8.0\tornta.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\CSharp\tornta\obj\Debug\net8.0\ref\tornta.dll
