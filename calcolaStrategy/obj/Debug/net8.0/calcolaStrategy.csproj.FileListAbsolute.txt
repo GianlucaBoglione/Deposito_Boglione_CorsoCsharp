@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\CSharp\calcolaStrategy\bin\Debug\net8.0\calcolaStrategy.exe
+C:\Users\Gianluca\Desktop\CSharp\calcolaStrategy\bin\Debug\net8.0\calcolaStrategy.deps.json
+C:\Users\Gianluca\Desktop\CSharp\calcolaStrategy\bin\Debug\net8.0\calcolaStrategy.runtimeconfig.json
+C:\Users\Gianluca\Desktop\CSharp\calcolaStrategy\bin\Debug\net8.0\calcolaStrategy.dll
+C:\Users\Gianluca\Desktop\CSharp\calcolaStrategy\bin\Debug\net8.0\calcolaStrategy.pdb
+C:\Users\Gianluca\Desktop\CSharp\calcolaStrategy\obj\Debug\net8.0\calcolaStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\CSharp\calcolaStrategy\obj\Debug\net8.0\calcolaStrategy.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\calcolaStrategy\obj\Debug\net8.0\calcolaStrategy.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\CSharp\calcolaStrategy\obj\Debug\net8.0\calcolaStrategy.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\calcolaStrategy\obj\Debug\net8.0\calcolaStrategy.dll
+C:\Users\Gianluca\Desktop\CSharp\calcolaStrategy\obj\Debug\net8.0\refint\calcolaStrategy.dll
+C:\Users\Gianluca\Desktop\CSharp\calcolaStrategy\obj\Debug\net8.0\calcolaStrategy.pdb
+C:\Users\Gianluca\Desktop\CSharp\calcolaStrategy\obj\Debug\net8.0\calcolaStrategy.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\CSharp\calcolaStrategy\obj\Debug\net8.0\ref\calcolaStrategy.dll

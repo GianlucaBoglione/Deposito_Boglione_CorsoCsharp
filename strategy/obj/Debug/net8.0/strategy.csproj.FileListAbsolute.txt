@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\CSharp\strategy\bin\Debug\net8.0\strategy.exe
+C:\Users\Gianluca\Desktop\CSharp\strategy\bin\Debug\net8.0\strategy.deps.json
+C:\Users\Gianluca\Desktop\CSharp\strategy\bin\Debug\net8.0\strategy.runtimeconfig.json
+C:\Users\Gianluca\Desktop\CSharp\strategy\bin\Debug\net8.0\strategy.dll
+C:\Users\Gianluca\Desktop\CSharp\strategy\bin\Debug\net8.0\strategy.pdb
+C:\Users\Gianluca\Desktop\CSharp\strategy\obj\Debug\net8.0\strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\CSharp\strategy\obj\Debug\net8.0\strategy.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\strategy\obj\Debug\net8.0\strategy.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\CSharp\strategy\obj\Debug\net8.0\strategy.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\strategy\obj\Debug\net8.0\strategy.dll
+C:\Users\Gianluca\Desktop\CSharp\strategy\obj\Debug\net8.0\refint\strategy.dll
+C:\Users\Gianluca\Desktop\CSharp\strategy\obj\Debug\net8.0\strategy.pdb
+C:\Users\Gianluca\Desktop\CSharp\strategy\obj\Debug\net8.0\strategy.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\CSharp\strategy\obj\Debug\net8.0\ref\strategy.dll

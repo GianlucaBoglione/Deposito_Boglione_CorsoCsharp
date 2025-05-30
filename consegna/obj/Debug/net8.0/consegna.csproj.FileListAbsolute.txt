@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\CSharp\consegna\bin\Debug\net8.0\consegna.exe
+C:\Users\Gianluca\Desktop\CSharp\consegna\bin\Debug\net8.0\consegna.deps.json
+C:\Users\Gianluca\Desktop\CSharp\consegna\bin\Debug\net8.0\consegna.runtimeconfig.json
+C:\Users\Gianluca\Desktop\CSharp\consegna\bin\Debug\net8.0\consegna.dll
+C:\Users\Gianluca\Desktop\CSharp\consegna\bin\Debug\net8.0\consegna.pdb
+C:\Users\Gianluca\Desktop\CSharp\consegna\obj\Debug\net8.0\consegna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\CSharp\consegna\obj\Debug\net8.0\consegna.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\consegna\obj\Debug\net8.0\consegna.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\CSharp\consegna\obj\Debug\net8.0\consegna.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\consegna\obj\Debug\net8.0\consegna.dll
+C:\Users\Gianluca\Desktop\CSharp\consegna\obj\Debug\net8.0\refint\consegna.dll
+C:\Users\Gianluca\Desktop\CSharp\consegna\obj\Debug\net8.0\consegna.pdb
+C:\Users\Gianluca\Desktop\CSharp\consegna\obj\Debug\net8.0\consegna.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\CSharp\consegna\obj\Debug\net8.0\ref\consegna.dll
