@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\CSharp\finaleSingoloMirko\bin\Debug\net8.0\finaleSingoloMirko.exe
+C:\Users\Gianluca\Desktop\CSharp\finaleSingoloMirko\bin\Debug\net8.0\finaleSingoloMirko.deps.json
+C:\Users\Gianluca\Desktop\CSharp\finaleSingoloMirko\bin\Debug\net8.0\finaleSingoloMirko.runtimeconfig.json
+C:\Users\Gianluca\Desktop\CSharp\finaleSingoloMirko\bin\Debug\net8.0\finaleSingoloMirko.dll
+C:\Users\Gianluca\Desktop\CSharp\finaleSingoloMirko\bin\Debug\net8.0\finaleSingoloMirko.pdb
+C:\Users\Gianluca\Desktop\CSharp\finaleSingoloMirko\obj\Debug\net8.0\finaleSingoloMirko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\CSharp\finaleSingoloMirko\obj\Debug\net8.0\finaleSingoloMirko.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\finaleSingoloMirko\obj\Debug\net8.0\finaleSingoloMirko.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\CSharp\finaleSingoloMirko\obj\Debug\net8.0\finaleSingoloMirko.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\CSharp\finaleSingoloMirko\obj\Debug\net8.0\finaleSingoloMirko.dll
+C:\Users\Gianluca\Desktop\CSharp\finaleSingoloMirko\obj\Debug\net8.0\refint\finaleSingoloMirko.dll
+C:\Users\Gianluca\Desktop\CSharp\finaleSingoloMirko\obj\Debug\net8.0\finaleSingoloMirko.pdb
+C:\Users\Gianluca\Desktop\CSharp\finaleSingoloMirko\obj\Debug\net8.0\finaleSingoloMirko.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\CSharp\finaleSingoloMirko\obj\Debug\net8.0\ref\finaleSingoloMirko.dll
