@@ -1,0 +1,14 @@
+C:\Users\Gianluca\Desktop\CSharpMysql\inizio\obj\Debug\net8.0\inizio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\Desktop\CSharpMysql\inizio\obj\Debug\net8.0\inizio.AssemblyInfoInputs.cache
+C:\Users\Gianluca\Desktop\CSharpMysql\inizio\obj\Debug\net8.0\inizio.AssemblyInfo.cs
+C:\Users\Gianluca\Desktop\CSharpMysql\inizio\obj\Debug\net8.0\inizio.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\CSharpMysql\inizio\bin\Debug\net8.0\inizio.exe
+C:\Users\Gianluca\Desktop\CSharpMysql\inizio\bin\Debug\net8.0\inizio.deps.json
+C:\Users\Gianluca\Desktop\CSharpMysql\inizio\bin\Debug\net8.0\inizio.runtimeconfig.json
+C:\Users\Gianluca\Desktop\CSharpMysql\inizio\bin\Debug\net8.0\inizio.dll
+C:\Users\Gianluca\Desktop\CSharpMysql\inizio\bin\Debug\net8.0\inizio.pdb
+C:\Users\Gianluca\Desktop\CSharpMysql\inizio\obj\Debug\net8.0\inizio.dll
+C:\Users\Gianluca\Desktop\CSharpMysql\inizio\obj\Debug\net8.0\refint\inizio.dll
+C:\Users\Gianluca\Desktop\CSharpMysql\inizio\obj\Debug\net8.0\inizio.pdb
+C:\Users\Gianluca\Desktop\CSharpMysql\inizio\obj\Debug\net8.0\inizio.genruntimeconfig.cache
+C:\Users\Gianluca\Desktop\CSharpMysql\inizio\obj\Debug\net8.0\ref\inizio.dll
