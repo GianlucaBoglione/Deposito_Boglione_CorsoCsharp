@@ -213,7 +213,7 @@ class Program
         }
     }
 
- private static void VisualizzaViaggi(MySqlConnection conn)
+    private static void VisualizzaViaggi(MySqlConnection conn)
     {
         string query = "SELECT viaggio_id, nome_viaggio, descrizione, prezzo FROM viaggio";
         using MySqlCommand cmd = new MySqlCommand(query, conn);
@@ -339,7 +339,221 @@ class Program
         }
     }
 
+
+    private static void VisualizzaPrenotazioni(MySqlConnection conn)
+    {
+        string query = @"SELECT p.prenotazione_id, u.username, v.nome_viaggio, p.data_prenotazione
+                         FROM prenotazioni p
+                         JOIN utenti u ON p.utente_id = u.utente_id
+                         JOIN viaggio v ON p.viaggio_id = v.viaggio_id";
+
+        using MySqlCommand cmd = new MySqlCommand(query, conn);
+
+        try
+        {
+            using MySqlDataReader reader = cmd.ExecuteReader();
+
+            Console.WriteLine("\n-- Prenotazioni --");
+            while (reader.Read())
+            {
+                Console.WriteLine($"ID Prenotazione: {reader["prenotazione_id"]} | Utente: {reader["username"]} | Viaggio: {reader["nome_viaggio"]} | Data: {reader["data_prenotazione"]}");
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Errore nella visualizzazione delle prenotazioni: " + ex.Message);
+        }
+    }
+
+    private static void AggiungiViaggioAlCarrello(MySqlConnection conn, List<int> carrello)
+    {
+        Console.Write("Inserisci ID viaggio da aggiungere al carrello: ");
+        if (!int.TryParse(Console.ReadLine(), out int id))
+        {
+            Console.WriteLine("ID non valido.");
+            return;
+        }
+
+        string query = "SELECT COUNT(*) FROM viaggio WHERE viaggio_id = @id";
+        using MySqlCommand cmd = new MySqlCommand(query, conn);
+        cmd.Parameters.AddWithValue("@id", id);
+
+        try
+        {
+            long count = (long)cmd.ExecuteScalar();
+            if (count > 0)
+            {
+                carrello.Add(id);
+                Console.WriteLine("Viaggio aggiunto al carrello.");
+            }
+            else
+            {
+                Console.WriteLine("Viaggio non trovato.");
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Errore: " + ex.Message);
+        }
+    }
+
+    private static void VisualizzaCarrello(MySqlConnection conn, List<int> carrello)
+    {
+        if (carrello.Count == 0)
+        {
+            Console.WriteLine("Carrello vuoto.");
+            return;
+        }
+
+        Console.WriteLine("\n-- Carrello --");
+
+        foreach (int id in carrello)
+        {
+            string query = "SELECT nome_viaggio, prezzo FROM viaggio WHERE viaggio_id = @id";
+            using MySqlCommand cmd = new MySqlCommand(query, conn);
+            cmd.Parameters.AddWithValue("@id", id);
+
+            try
+            {
+                using MySqlDataReader reader = cmd.ExecuteReader();
+
+                if (reader.Read())
+                {
+                    Console.WriteLine($"Viaggio: {reader["nome_viaggio"]} | Prezzo: {reader["prezzo"]}");
+                }
+                reader.Close();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Errore: " + ex.Message);
+            }
+        }
+    }
+
+    private static void EffettuaOrdine(MySqlConnection conn, List<int> carrello, string username)
+    {
+        if (carrello.Count == 0)
+        {
+            Console.WriteLine("Carrello vuoto, impossibile effettuare ordine.");
+            return;
+        }
+
+        // Recupera utente_id
+        string queryUtente = "SELECT utente_id FROM utenti WHERE username = @username";
+        using MySqlCommand cmdUtente = new MySqlCommand(queryUtente, conn);
+        cmdUtente.Parameters.AddWithValue("@username", username);
+
+        int utenteId;
+        try
+        {
+            object result = cmdUtente.ExecuteScalar();
+            if (result == null)
+            {
+                Console.WriteLine("Utente non trovato.");
+                return;
+            }
+            utenteId = Convert.ToInt32(result);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Errore: " + ex.Message);
+            return;
+        }
+
+        // Inserimento prenotazioni
+        string queryPrenotazione = "INSERT INTO prenotazioni (utente_id, viaggio_id, data_prenotazione) VALUES (@utenteId, @viaggioId, @data)";
+        using MySqlCommand cmdPrenotazione = new MySqlCommand(queryPrenotazione, conn);
+
+        try
+        {
+            foreach (int viaggioId in carrello)
+            {
+                cmdPrenotazione.Parameters.Clear();
+                cmdPrenotazione.Parameters.AddWithValue("@utenteId", utenteId);
+                cmdPrenotazione.Parameters.AddWithValue("@viaggioId", viaggioId);
+                cmdPrenotazione.Parameters.AddWithValue("@data", DateTime.Now);
+
+                cmdPrenotazione.ExecuteNonQuery();
+            }
+
+            carrello.Clear();
+            Console.WriteLine("Ordine effettuato con successo.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Errore durante l'effettuazione dell'ordine: " + ex.Message);
+        }
+    }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
